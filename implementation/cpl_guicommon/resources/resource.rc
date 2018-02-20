@@ -1,0 +1,9 @@
+#define IDI_ICON  100
+
+#include "afxres.h"
+#include <windows.h>
+
+IDC_ZOOM_PICK           CURSOR  DISCARDABLE     "cursor1.cur"
+IDC_CROSS               CURSOR  DISCARDABLE     "cross.cur"
+IDC_FREEROT             CURSOR  DISCARDABLE     "freerot.cur"
+IDI_ICON                ICON    DISCARDABLE     "app.ico"
